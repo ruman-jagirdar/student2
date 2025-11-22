@@ -3,7 +3,7 @@ if len(sys.argv)==3:
    script_name=sys.argv[0]
    name=sys.argv[2]
    rollno=sys.argv[2]
-   print("user provided input values:)
+   print("user provided input values:")
 else:
    script_name=sys.argv[0]
    name="ruman"
